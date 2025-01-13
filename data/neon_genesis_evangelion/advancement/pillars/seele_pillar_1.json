@@ -3,12 +3,12 @@
       "seele_pillar_1": {
         "trigger": "minecraft:recipe_crafted",
         "conditions": {
-          "recipe_id": "neon_genesis_evangelion:seele_pillar_1"
+          "recipe_id": "neon_genesis_evangelion:pillars/seele_pillar_1"
         }
       }
     },
     "rewards": {
-      "function": "neon_genesis_evangelion:seele_pillars/get_pillar_1"
+      "function": "neon_genesis_evangelion:seele_pillars/get_pillar"
     },
     "sends_telemetry_event": false
   }
